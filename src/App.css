@@ -17,6 +17,15 @@
   }
 }
 
+
+
+header {
+    background-color: #774caf;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+}
+
 .hero {
   position: relative;
 

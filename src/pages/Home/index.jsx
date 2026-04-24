@@ -15,6 +15,11 @@ function Home () {
         <Link to ="/Exercicio2">
         <button>Exercicio2</button>
         </Link>
+       
+
+        <Link to ="/SignUp">
+        <button>SignUp</button>
+        </Link>
         </>
     )
 }
